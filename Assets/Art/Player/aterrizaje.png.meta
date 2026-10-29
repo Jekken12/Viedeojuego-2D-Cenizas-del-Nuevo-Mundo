@@ -1,0 +1,436 @@
+fileFormatVersion: 2
+guid: cde3db9cd0a67914ba6079ebc625e0a7
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 5187275463085354172
+    second: aterrizaje_0
+  - first:
+      213: 6883794826419210387
+    second: aterrizaje_1
+  - first:
+      213: 5125318904024776591
+    second: aterrizaje_2
+  - first:
+      213: 8071702156601905868
+    second: aterrizaje_3
+  - first:
+      213: 5303265720749522474
+    second: aterrizaje_4
+  - first:
+      213: 2629354021324931341
+    second: aterrizaje_5
+  - first:
+      213: 7090882861166334245
+    second: aterrizaje_6
+  - first:
+      213: 8447761973176815024
+    second: aterrizaje_7
+  - first:
+      213: -8842483705839348517
+    second: aterrizaje_8
+  - first:
+      213: -8186443212635457420
+    second: aterrizaje_9
+  - first:
+      213: -1894649693132728623
+    second: aterrizaje_10
+  - first:
+      213: 2046644878051274389
+    second: aterrizaje_11
+  - first:
+      213: 6626587027848701882
+    second: aterrizaje_12
+  - first:
+      213: 9190516370071278404
+    second: aterrizaje_13
+  - first:
+      213: -3945023528978681865
+    second: aterrizaje_14
+  - first:
+      213: 6957689147696604890
+    second: aterrizaje_15
+  - first:
+      213: -1733341498861307635
+    second: aterrizaje_16
+  - first:
+      213: -4936237324400975270
+    second: aterrizaje_17
+  - first:
+      213: -4943860229570424502
+    second: aterrizaje_18
+  - first:
+      213: -2817652988842666086
+    second: aterrizaje_19
+  - first:
+      213: -6399663405291614805
+    second: aterrizaje_20
+  - first:
+      213: -8241736603935576438
+    second: aterrizaje_21
+  - first:
+      213: -6728494887949029370
+    second: aterrizaje_22
+  - first:
+      213: 8953266302011834763
+    second: aterrizaje_23
+  - first:
+      213: -7758897633256007708
+    second: aterrizaje_24
+  - first:
+      213: 4137777472609002048
+    second: aterrizaje_25
+  - first:
+      213: -1480191564506551832
+    second: aterrizaje_26
+  - first:
+      213: -9123480854042280853
+    second: aterrizaje_27
+  - first:
+      213: -8691151889810834714
+    second: aterrizaje_28
+  - first:
+      213: 8741485514302699966
+    second: aterrizaje_29
+  - first:
+      213: 2879548170550946623
+    second: aterrizaje_30
+  - first:
+      213: 3384310884572808566
+    second: aterrizaje_31
+  - first:
+      213: 4188234990564935491
+    second: aterrizaje_32
+  - first:
+      213: 7416146034776898410
+    second: aterrizaje_33
+  - first:
+      213: -2924508164102452071
+    second: aterrizaje_34
+  - first:
+      213: 8209202586397989832
+    second: aterrizaje_35
+  - first:
+      213: 2244211903928600686
+    second: aterrizaje_36
+  - first:
+      213: -96662542506910361
+    second: aterrizaje_37
+  - first:
+      213: 8563047370234889747
+    second: aterrizaje_38
+  - first:
+      213: 2218044502580610289
+    second: aterrizaje_39
+  - first:
+      213: 7999746338407124931
+    second: aterrizaje_40
+  - first:
+      213: -1250954743015981004
+    second: aterrizaje_41
+  - first:
+      213: -8689566470107325010
+    second: aterrizaje_42
+  - first:
+      213: 2043625039056736957
+    second: aterrizaje_43
+  - first:
+      213: 5124711357300613177
+    second: aterrizaje_44
+  - first:
+      213: 8596616752491425863
+    second: aterrizaje_45
+  - first:
+      213: -4100958423935348041
+    second: aterrizaje_46
+  - first:
+      213: -4559076063529225627
+    second: aterrizaje_47
+  - first:
+      213: -8523252358931131126
+    second: aterrizaje_48
+  - first:
+      213: -8722047211251923420
+    second: aterrizaje_49
+  - first:
+      213: -348526544480804145
+    second: aterrizaje_50
+  - first:
+      213: 115496094686332950
+    second: aterrizaje_51
+  - first:
+      213: 3481928099662685013
+    second: aterrizaje_52
+  - first:
+      213: 2348792765043326981
+    second: aterrizaje_53
+  - first:
+      213: -3608537138100716050
+    second: aterrizaje_54
+  - first:
+      213: 3168096103496466228
+    second: aterrizaje_55
+  - first:
+      213: -8205405567787588694
+    second: aterrizaje_56
+  - first:
+      213: -6443355543560222576
+    second: aterrizaje_57
+  - first:
+      213: 8667318844243737835
+    second: aterrizaje_58
+  - first:
+      213: -4177878388450161057
+    second: aterrizaje_59
+  - first:
+      213: 6836187364955507105
+    second: aterrizaje_60
+  - first:
+      213: 6554370816007775090
+    second: aterrizaje_61
+  - first:
+      213: 646510671197115879
+    second: aterrizaje_62
+  - first:
+      213: 8003313360965508754
+    second: aterrizaje_63
+  - first:
+      213: -809617672614554278
+    second: aterrizaje_64
+  - first:
+      213: 8658446668287521706
+    second: aterrizaje_65
+  - first:
+      213: 6676509710474036009
+    second: aterrizaje_66
+  - first:
+      213: -7034975052641908471
+    second: aterrizaje_67
+  - first:
+      213: 4565537824934502182
+    second: aterrizaje_68
+  - first:
+      213: -5924290627621485036
+    second: aterrizaje_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: aterrizaje_0
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 591
+        width: 500
+        height: 560
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cbc6d41ec87ecf740800000000000000
+      internalID: 5187275463085354172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aterrizaje_1
+      rect:
+        serializedVersion: 2
+        x: 685
+        y: 597
+        width: 500
+        height: 560
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e38e4771bf8a7c4682ddec2ccc2065b
+      internalID: 6883794826419210387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aterrizaje_2
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 30
+        width: 500
+        height: 560
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0995a359554818640b3af094062c4e6e
+      internalID: 5125318904024776591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: aterrizaje_3
+      rect:
+        serializedVersion: 2
+        x: 693
+        y: 26
+        width: 500
+        height: 560
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 81d1292f99d58234fa64bbd8253afae3
+      internalID: 8071702156601905868
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: cf3a085d0de282c429cfec1c808031cc
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1254.0,"y":1254.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      aterrizaje_0: 5187275463085354172
+      aterrizaje_1: 6883794826419210387
+      aterrizaje_2: 5125318904024776591
+      aterrizaje_3: 8071702156601905868
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

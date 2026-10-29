@@ -1,0 +1,469 @@
+fileFormatVersion: 2
+guid: 639b4bbb98f664e42af2408a48cdb94e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3809624990778010413
+    second: "ca\xEDda secuencial_0"
+  - first:
+      213: 877885140917253006
+    second: "ca\xEDda secuencial_1"
+  - first:
+      213: -529720075742629872
+    second: "ca\xEDda secuencial_2"
+  - first:
+      213: -8827138266379780230
+    second: "ca\xEDda secuencial_3"
+  - first:
+      213: 4792621292338771398
+    second: "ca\xEDda secuencial_4"
+  - first:
+      213: -454618332687684098
+    second: "ca\xEDda secuencial_5"
+  - first:
+      213: 3214468093240708529
+    second: "ca\xEDda secuencial_6"
+  - first:
+      213: -4992993223834721257
+    second: "ca\xEDda secuencial_7"
+  - first:
+      213: -5472657580815457212
+    second: "ca\xEDda secuencial_8"
+  - first:
+      213: -8673360214606452003
+    second: "ca\xEDda secuencial_9"
+  - first:
+      213: 5001884412606706355
+    second: "ca\xEDda secuencial_10"
+  - first:
+      213: 377139310566045423
+    second: "ca\xEDda secuencial_11"
+  - first:
+      213: -7239390477432317677
+    second: "ca\xEDda secuencial_12"
+  - first:
+      213: 6593132918917175834
+    second: "ca\xEDda secuencial_13"
+  - first:
+      213: 6809934730642580633
+    second: "ca\xEDda secuencial_14"
+  - first:
+      213: -3796247431510927716
+    second: "ca\xEDda secuencial_15"
+  - first:
+      213: 3131867029701848431
+    second: "ca\xEDda secuencial_16"
+  - first:
+      213: 4729188928954488137
+    second: "ca\xEDda secuencial_17"
+  - first:
+      213: -6096013564528237395
+    second: "ca\xEDda secuencial_18"
+  - first:
+      213: 2279471954679200220
+    second: "ca\xEDda secuencial_19"
+  - first:
+      213: 5273930415038903128
+    second: "ca\xEDda secuencial_20"
+  - first:
+      213: -3689078857091885341
+    second: "ca\xEDda secuencial_21"
+  - first:
+      213: 6533192814456893515
+    second: "ca\xEDda secuencial_22"
+  - first:
+      213: 6328883646632197703
+    second: "ca\xEDda secuencial_23"
+  - first:
+      213: -2920235364807255903
+    second: "ca\xEDda secuencial_24"
+  - first:
+      213: -3879563777561629976
+    second: "ca\xEDda secuencial_25"
+  - first:
+      213: -599904835975963798
+    second: "ca\xEDda secuencial_26"
+  - first:
+      213: 3962986662282601780
+    second: "ca\xEDda secuencial_27"
+  - first:
+      213: 4316133486018660350
+    second: "ca\xEDda secuencial_28"
+  - first:
+      213: 5524236417333169543
+    second: "ca\xEDda secuencial_29"
+  - first:
+      213: -5699003470931541563
+    second: "ca\xEDda secuencial_30"
+  - first:
+      213: -5069349259747043537
+    second: "ca\xEDda secuencial_31"
+  - first:
+      213: 5848289428704254640
+    second: "ca\xEDda secuencial_32"
+  - first:
+      213: 6260391832256379364
+    second: "ca\xEDda secuencial_33"
+  - first:
+      213: -1373387736433529056
+    second: "ca\xEDda secuencial_34"
+  - first:
+      213: 4898987139971510994
+    second: "ca\xEDda secuencial_35"
+  - first:
+      213: 7497715205595257120
+    second: "ca\xEDda secuencial_36"
+  - first:
+      213: 2375416855748175956
+    second: "ca\xEDda secuencial_37"
+  - first:
+      213: 1061617325244602819
+    second: "ca\xEDda secuencial_38"
+  - first:
+      213: -8874150174566489471
+    second: "ca\xEDda secuencial_39"
+  - first:
+      213: 2790996115593176887
+    second: "ca\xEDda secuencial_40"
+  - first:
+      213: -7072477713250762921
+    second: "ca\xEDda secuencial_41"
+  - first:
+      213: 5011477104662395412
+    second: "ca\xEDda secuencial_42"
+  - first:
+      213: 4566058984317010831
+    second: "ca\xEDda secuencial_43"
+  - first:
+      213: -5578227473745341796
+    second: "ca\xEDda secuencial_44"
+  - first:
+      213: 9172906035785916989
+    second: "ca\xEDda secuencial_45"
+  - first:
+      213: -7854602577796714545
+    second: "ca\xEDda secuencial_46"
+  - first:
+      213: 5973292511614673712
+    second: "ca\xEDda secuencial_47"
+  - first:
+      213: -5662110245532374990
+    second: "ca\xEDda secuencial_48"
+  - first:
+      213: 8920879656049295831
+    second: "ca\xEDda secuencial_49"
+  - first:
+      213: 6288567575173356315
+    second: "ca\xEDda secuencial_50"
+  - first:
+      213: -7844775737776060672
+    second: "ca\xEDda secuencial_51"
+  - first:
+      213: -2720256369958177423
+    second: "ca\xEDda secuencial_52"
+  - first:
+      213: -8065587943026772770
+    second: "ca\xEDda secuencial_53"
+  - first:
+      213: 37910709274364904
+    second: "ca\xEDda secuencial_54"
+  - first:
+      213: 321222101208253826
+    second: "ca\xEDda secuencial_55"
+  - first:
+      213: -7260745924374510218
+    second: "ca\xEDda secuencial_56"
+  - first:
+      213: 5658793180024503248
+    second: "ca\xEDda secuencial_57"
+  - first:
+      213: -3529626758436853487
+    second: "ca\xEDda secuencial_58"
+  - first:
+      213: -6453385889169514739
+    second: "ca\xEDda secuencial_59"
+  - first:
+      213: -4052557748814250139
+    second: "ca\xEDda secuencial_60"
+  - first:
+      213: -1587965779186929955
+    second: "ca\xEDda secuencial_61"
+  - first:
+      213: -754451424330097697
+    second: "ca\xEDda secuencial_62"
+  - first:
+      213: 3799586124222410777
+    second: "ca\xEDda secuencial_63"
+  - first:
+      213: 3240603351927735893
+    second: "ca\xEDda secuencial_64"
+  - first:
+      213: 1680943118104530777
+    second: "ca\xEDda secuencial_65"
+  - first:
+      213: -2152650317102163261
+    second: "ca\xEDda secuencial_66"
+  - first:
+      213: -4914735618452226517
+    second: "ca\xEDda secuencial_67"
+  - first:
+      213: -6328457083924805095
+    second: "ca\xEDda secuencial_68"
+  - first:
+      213: 3736542665879192623
+    second: "ca\xEDda secuencial_69"
+  - first:
+      213: -6755168332726362317
+    second: "ca\xEDda secuencial_70"
+  - first:
+      213: -4229932223577538566
+    second: "ca\xEDda secuencial_71"
+  - first:
+      213: 7031613519651322048
+    second: "ca\xEDda secuencial_72"
+  - first:
+      213: 3211675360630465822
+    second: "ca\xEDda secuencial_73"
+  - first:
+      213: -8286258728924721886
+    second: "ca\xEDda secuencial_74"
+  - first:
+      213: 7010502285125110790
+    second: "ca\xEDda secuencial_75"
+  - first:
+      213: 3708534003441646927
+    second: "ca\xEDda secuencial_76"
+  - first:
+      213: -4503749486439338446
+    second: "ca\xEDda secuencial_77"
+  - first:
+      213: 1901262698024743120
+    second: "ca\xEDda secuencial_78"
+  - first:
+      213: -1559527144640919424
+    second: "ca\xEDda secuencial_79"
+  - first:
+      213: 790405670855625980
+    second: "ca\xEDda secuencial_80"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "ca\xEDda secuencial_0"
+      rect:
+        serializedVersion: 2
+        x: 98
+        y: 626
+        width: 500
+        height: 560
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d4d931514e712bc0800000000000000
+      internalID: -3809624990778010413
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ca\xEDda secuencial_1"
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 563
+        width: 500
+        height: 560
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea764260f26a60941b0e578ebab1bdf2
+      internalID: 877885140917253006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ca\xEDda secuencial_2"
+      rect:
+        serializedVersion: 2
+        x: 126
+        y: 24
+        width: 500
+        height: 560
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 09eb4000ea9306c4390cc580be910aee
+      internalID: -529720075742629872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "ca\xEDda secuencial_3"
+      rect:
+        serializedVersion: 2
+        x: 690
+        y: 20
+        width: 500
+        height: 560
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac34da6a05fe52c4e9fca7e32a2e1100
+      internalID: -8827138266379780230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 1a45bb61eb0489b4aaa300d7a10aeefd
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1254.0,"y":1254.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      "ca\xEDda secuencial_0": -3809624990778010413
+      "ca\xEDda secuencial_1": 877885140917253006
+      "ca\xEDda secuencial_2": -529720075742629872
+      "ca\xEDda secuencial_3": -8827138266379780230
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

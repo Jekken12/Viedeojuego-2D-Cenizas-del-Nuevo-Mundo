@@ -1,0 +1,418 @@
+fileFormatVersion: 2
+guid: 9474e236b5a881542b2558bbe4610f17
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1262371134909600682
+    second: "Capa 3 \u2014 Estructuras industriales medias_0"
+  - first:
+      213: 6436454056279654745
+    second: "Capa 3 \u2014 Estructuras industriales medias_1"
+  - first:
+      213: 2240747852222032902
+    second: "Capa 3 \u2014 Estructuras industriales medias_2"
+  - first:
+      213: -1145073136559737562
+    second: "Capa 3 \u2014 Estructuras industriales medias_3"
+  - first:
+      213: -5240858030740202567
+    second: "Capa 3 \u2014 Estructuras industriales medias_4"
+  - first:
+      213: 4115251083231272517
+    second: "Capa 3 \u2014 Estructuras industriales medias_5"
+  - first:
+      213: -2859277488428539654
+    second: "Capa 3 \u2014 Estructuras industriales medias_6"
+  - first:
+      213: -5117841176159287780
+    second: "Capa 3 \u2014 Estructuras industriales medias_7"
+  - first:
+      213: -8007186731990323064
+    second: "Capa 3 \u2014 Estructuras industriales medias_8"
+  - first:
+      213: 112689733873636105
+    second: "Capa 3 \u2014 Estructuras industriales medias_9"
+  - first:
+      213: 1373662712101827689
+    second: "Capa 3 \u2014 Estructuras industriales medias_10"
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_0"
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 612
+        width: 42
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ca10124282b7ee0800000000000000
+      internalID: -1262371134909600682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_1"
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 626
+        width: 108
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 951cba5ccd0e25950800000000000000
+      internalID: 6436454056279654745
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_2"
+      rect:
+        serializedVersion: 2
+        x: 977
+        y: 566
+        width: 24
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ce9e2bc4cb81f10800000000000000
+      internalID: 2240747852222032902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_3"
+      rect:
+        serializedVersion: 2
+        x: 1295
+        y: 642
+        width: 82
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 625b3859c02eb10f0800000000000000
+      internalID: -1145073136559737562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_4"
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 649
+        width: 144
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bb1a77636bb447b0800000000000000
+      internalID: -5240858030740202567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_5"
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 31
+        width: 2172
+        height: 615
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54e9a818e0f4c1930800000000000000
+      internalID: 4115251083231272517
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_6"
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 634
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af022fbf54ec158d0800000000000000
+      internalID: -2859277488428539654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_7"
+      rect:
+        serializedVersion: 2
+        x: 231
+        y: 609
+        width: 9
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c168826d096c9f8b0800000000000000
+      internalID: -5117841176159287780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_8"
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 612
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880fe755712c0e090800000000000000
+      internalID: -8007186731990323064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_9"
+      rect:
+        serializedVersion: 2
+        x: 1400
+        y: 613
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9031f5547ba509100800000000000000
+      internalID: 112689733873636105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: "Capa 3 \u2014 Estructuras industriales medias_10"
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 610
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 964770c65fa301310800000000000000
+      internalID: 1373662712101827689
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      "Capa 3 \u2014 Estructuras industriales medias_0": -1262371134909600682
+      "Capa 3 \u2014 Estructuras industriales medias_1": 6436454056279654745
+      "Capa 3 \u2014 Estructuras industriales medias_10": 1373662712101827689
+      "Capa 3 \u2014 Estructuras industriales medias_2": 2240747852222032902
+      "Capa 3 \u2014 Estructuras industriales medias_3": -1145073136559737562
+      "Capa 3 \u2014 Estructuras industriales medias_4": -5240858030740202567
+      "Capa 3 \u2014 Estructuras industriales medias_5": 4115251083231272517
+      "Capa 3 \u2014 Estructuras industriales medias_6": -2859277488428539654
+      "Capa 3 \u2014 Estructuras industriales medias_7": -5117841176159287780
+      "Capa 3 \u2014 Estructuras industriales medias_8": -8007186731990323064
+      "Capa 3 \u2014 Estructuras industriales medias_9": 112689733873636105
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

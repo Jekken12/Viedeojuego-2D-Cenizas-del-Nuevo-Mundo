@@ -1,0 +1,1900 @@
+fileFormatVersion: 2
+guid: 246287d61bf070049a7694eb0251848a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4025455826440734316
+    second: carrera_0
+  - first:
+      213: -1022836424788242202
+    second: carrera_1
+  - first:
+      213: -411410147028587859
+    second: carrera_2
+  - first:
+      213: -6414265510051075201
+    second: carrera_3
+  - first:
+      213: 1805340248588784054
+    second: carrera_4
+  - first:
+      213: -3145811146524388730
+    second: carrera_5
+  - first:
+      213: -7579844002670466933
+    second: carrera_6
+  - first:
+      213: 5548556386647412222
+    second: carrera_7
+  - first:
+      213: 4156587247614130323
+    second: carrera_8
+  - first:
+      213: -5378898560836952315
+    second: carrera_9
+  - first:
+      213: -3659011208606492486
+    second: carrera_10
+  - first:
+      213: 7470605763742383225
+    second: carrera_11
+  - first:
+      213: 7003323912598481927
+    second: carrera_12
+  - first:
+      213: 8101943555816071087
+    second: carrera_13
+  - first:
+      213: -4895869481049823452
+    second: carrera_14
+  - first:
+      213: 4353019850765804085
+    second: carrera_15
+  - first:
+      213: 1705973158619414123
+    second: carrera_16
+  - first:
+      213: 7661986702376915847
+    second: carrera_17
+  - first:
+      213: 9034662387350221964
+    second: carrera_18
+  - first:
+      213: 2689537781929278429
+    second: carrera_19
+  - first:
+      213: -3963237552475560378
+    second: carrera_20
+  - first:
+      213: -90697082072926617
+    second: carrera_21
+  - first:
+      213: 2896541710595593173
+    second: carrera_22
+  - first:
+      213: -4246966256503308179
+    second: carrera_23
+  - first:
+      213: -1598665572883046871
+    second: carrera_24
+  - first:
+      213: 6965630252910186020
+    second: carrera_25
+  - first:
+      213: 7228503824462555955
+    second: carrera_26
+  - first:
+      213: -8044809468074588698
+    second: carrera_27
+  - first:
+      213: 8014842374479043274
+    second: carrera_28
+  - first:
+      213: -6099312672564485286
+    second: carrera_29
+  - first:
+      213: -7439244358443917574
+    second: carrera_30
+  - first:
+      213: -4899899362418485300
+    second: carrera_31
+  - first:
+      213: 1410324700439224304
+    second: carrera_32
+  - first:
+      213: 6059073207999818360
+    second: carrera_33
+  - first:
+      213: -6149009993947183879
+    second: carrera_34
+  - first:
+      213: 1439526740002968859
+    second: carrera_35
+  - first:
+      213: -4201997949048515005
+    second: carrera_36
+  - first:
+      213: 9189477192796365881
+    second: carrera_37
+  - first:
+      213: 3760468593614851599
+    second: carrera_38
+  - first:
+      213: 4082338457877099928
+    second: carrera_39
+  - first:
+      213: 7835033006433003234
+    second: carrera_40
+  - first:
+      213: 4641583402527218558
+    second: carrera_41
+  - first:
+      213: 4815866516033759190
+    second: carrera_42
+  - first:
+      213: 3064240073240191325
+    second: carrera_43
+  - first:
+      213: -3514526754832778219
+    second: carrera_44
+  - first:
+      213: 7731084560114296305
+    second: carrera_45
+  - first:
+      213: 2642199923063429531
+    second: carrera_46
+  - first:
+      213: 3278154907524304046
+    second: carrera_47
+  - first:
+      213: -8929465560490149793
+    second: carrera_48
+  - first:
+      213: 8645409255065244726
+    second: carrera_49
+  - first:
+      213: 7710832318169519330
+    second: carrera_50
+  - first:
+      213: -6568323139145239911
+    second: carrera_51
+  - first:
+      213: 2724272431398732810
+    second: carrera_52
+  - first:
+      213: 448593809828733939
+    second: carrera_53
+  - first:
+      213: 3531367247193845028
+    second: carrera_54
+  - first:
+      213: 5716153426972259784
+    second: carrera_55
+  - first:
+      213: 305290189374487429
+    second: carrera_56
+  - first:
+      213: -5330701483840891766
+    second: carrera_57
+  - first:
+      213: -6951658119115259248
+    second: carrera_58
+  - first:
+      213: 1653708562883397799
+    second: carrera_59
+  - first:
+      213: -1875650199936866580
+    second: carrera_60
+  - first:
+      213: 8692525403256581323
+    second: carrera_61
+  - first:
+      213: -7179634497504128838
+    second: carrera_62
+  - first:
+      213: -7339821862012731768
+    second: carrera_63
+  - first:
+      213: -7365863437355380265
+    second: carrera_64
+  - first:
+      213: 4550843163659992607
+    second: carrera_65
+  - first:
+      213: -2404633780954632572
+    second: carrera_66
+  - first:
+      213: 8144443190273947102
+    second: carrera_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: carrera_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 963
+        width: 65
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c66c6021fba4dd730800000000000000
+      internalID: 4025455826440734316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_1
+      rect:
+        serializedVersion: 2
+        x: 58
+        y: 984
+        width: 116
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e09a2dd0b72ec1f0800000000000000
+      internalID: -1022836424788242202
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_2
+      rect:
+        serializedVersion: 2
+        x: 217
+        y: 992
+        width: 39
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daaae59a6a06a4af0800000000000000
+      internalID: -411410147028587859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_3
+      rect:
+        serializedVersion: 2
+        x: 247
+        y: 951
+        width: 108
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7bad5ab083fbf6a0800000000000000
+      internalID: -6414265510051075201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_4
+      rect:
+        serializedVersion: 2
+        x: 354
+        y: 978
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b199d7146bdd0910800000000000000
+      internalID: 1805340248588784054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_5
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 969
+        width: 13
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68213f0fd65d754d0800000000000000
+      internalID: -3145811146524388730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_6
+      rect:
+        serializedVersion: 2
+        x: 384
+        y: 953
+        width: 19
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b88a3ff0a0cfec690800000000000000
+      internalID: -7579844002670466933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_7
+      rect:
+        serializedVersion: 2
+        x: 400
+        y: 980
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efd085ad2ae600d40800000000000000
+      internalID: 5548556386647412222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_8
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 1032
+        width: 50
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39875f3441a2fa930800000000000000
+      internalID: 4156587247614130323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_9
+      rect:
+        serializedVersion: 2
+        x: 489
+        y: 978
+        width: 27
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50f147ee1405a55b0800000000000000
+      internalID: -5378898560836952315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_10
+      rect:
+        serializedVersion: 2
+        x: 521
+        y: 957
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab856d921b4983dc0800000000000000
+      internalID: -3659011208606492486
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_11
+      rect:
+        serializedVersion: 2
+        x: 523
+        y: 1000
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97cb9d47c5ceca760800000000000000
+      internalID: 7470605763742383225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_12
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 990
+        width: 21
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c6e694efdc03160800000000000000
+      internalID: 7003323912598481927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_13
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1028
+        width: 36
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faf9ea2fcb2ef6070800000000000000
+      internalID: 8101943555816071087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_14
+      rect:
+        serializedVersion: 2
+        x: 652
+        y: 961
+        width: 29
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 427695b75a06e0cb0800000000000000
+      internalID: -4895869481049823452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_15
+      rect:
+        serializedVersion: 2
+        x: 680
+        y: 957
+        width: 73
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532ae11bd78096c30800000000000000
+      internalID: 4353019850765804085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_16
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 941
+        width: 51
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6e7cd39c85dca710800000000000000
+      internalID: 1705973158619414123
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_17
+      rect:
+        serializedVersion: 2
+        x: 744
+        y: 985
+        width: 31
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78351f49f48d45a60800000000000000
+      internalID: 7661986702376915847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_18
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 996
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c84b797d291916d70800000000000000
+      internalID: 9034662387350221964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_19
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 1006
+        width: 32
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddbf2e5ec58235520800000000000000
+      internalID: 2689537781929278429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_20
+      rect:
+        serializedVersion: 2
+        x: 796
+        y: 1052
+        width: 28
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646a434b170cff8c0800000000000000
+      internalID: -3963237552475560378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_21
+      rect:
+        serializedVersion: 2
+        x: 816
+        y: 971
+        width: 104
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 766f0e00c77cdbef0800000000000000
+      internalID: -90697082072926617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_22
+      rect:
+        serializedVersion: 2
+        x: 823
+        y: 1052
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d31729d655923820800000000000000
+      internalID: 2896541710595593173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_23
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 973
+        width: 60
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d60cc0ce0bebf05c0800000000000000
+      internalID: -4246966256503308179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_24
+      rect:
+        serializedVersion: 2
+        x: 997
+        y: 971
+        width: 187
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92ed8ada12660d9e0800000000000000
+      internalID: -1598665572883046871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_25
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 955
+        width: 151
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42e0d6d3fc3eaa060800000000000000
+      internalID: 6965630252910186020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_26
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 982
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33ba4aa1eedc05460800000000000000
+      internalID: 7228503824462555955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_27
+      rect:
+        serializedVersion: 2
+        x: 1329
+        y: 973
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e507b979681b5090800000000000000
+      internalID: -8044809468074588698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_28
+      rect:
+        serializedVersion: 2
+        x: 1335
+        y: 939
+        width: 34
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aca5295dca07a3f60800000000000000
+      internalID: 8014842374479043274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_29
+      rect:
+        serializedVersion: 2
+        x: 1349
+        y: 988
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5361c99073ea5ba0800000000000000
+      internalID: -6099312672564485286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_30
+      rect:
+        serializedVersion: 2
+        x: 1359
+        y: 982
+        width: 12
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afe1f99bbae72c890800000000000000
+      internalID: -7439244358443917574
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_31
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 990
+        width: 14
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc712eb9d7f000cb0800000000000000
+      internalID: -4899899362418485300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_32
+      rect:
+        serializedVersion: 2
+        x: 1380
+        y: 1004
+        width: 51
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff93a3c7da729310800000000000000
+      internalID: 1410324700439224304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_33
+      rect:
+        serializedVersion: 2
+        x: 352
+        y: 953
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87a6ae6faf6261450800000000000000
+      internalID: 6059073207999818360
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_34
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 963
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f483764df35aaaa0800000000000000
+      internalID: -6149009993947183879
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_35
+      rect:
+        serializedVersion: 2
+        x: 505
+        y: 942
+        width: 13
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b159d8e61f93af310800000000000000
+      internalID: 1439526740002968859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_36
+      rect:
+        serializedVersion: 2
+        x: 617
+        y: 958
+        width: 12
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3461b04e0218fa5c0800000000000000
+      internalID: -4201997949048515005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_37
+      rect:
+        serializedVersion: 2
+        x: 24
+        y: 492
+        width: 397
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9346e24a1d4978f70800000000000000
+      internalID: 9189477192796365881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_38
+      rect:
+        serializedVersion: 2
+        x: 62
+        y: 951
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e0d67134edf2430800000000000000
+      internalID: 3760468593614851599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_39
+      rect:
+        serializedVersion: 2
+        x: 406
+        y: 945
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8953ea2c23167a830800000000000000
+      internalID: 4082338457877099928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_40
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 276
+        width: 1013
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e666efe101abbc60800000000000000
+      internalID: 7835033006433003234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_41
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 945
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7bdbfe23873a6040800000000000000
+      internalID: 4641583402527218558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_42
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 694
+        width: 27
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d7e3eda41565d240800000000000000
+      internalID: 4815866516033759190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_43
+      rect:
+        serializedVersion: 2
+        x: 1365
+        y: 542
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d51afff8c1e568a20800000000000000
+      internalID: 3064240073240191325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_44
+      rect:
+        serializedVersion: 2
+        x: 531
+        y: 517
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51cf5988984e93fc0800000000000000
+      internalID: -3514526754832778219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_45
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 499
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5ae1642745a4b60800000000000000
+      internalID: 7731084560114296305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_46
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 18
+        width: 631
+        height: 485
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9992cfb4dafaa420800000000000000
+      internalID: 2642199923063429531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_47
+      rect:
+        serializedVersion: 2
+        x: 358
+        y: 494
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eac80bd15885e7d20800000000000000
+      internalID: 3278154907524304046
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_48
+      rect:
+        serializedVersion: 2
+        x: 660
+        y: 501
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5876e0126a241480800000000000000
+      internalID: -8929465560490149793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_49
+      rect:
+        serializedVersion: 2
+        x: 448
+        y: 471
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 634d90289e9aaf770800000000000000
+      internalID: 8645409255065244726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_50
+      rect:
+        serializedVersion: 2
+        x: 1066
+        y: 460
+        width: 11
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e4981fb321620b60800000000000000
+      internalID: 7710832318169519330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_51
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 469
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992f449c7e0a8d4a0800000000000000
+      internalID: -6568323139145239911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_52
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 461
+        width: 10
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0449e0b75f8ec520800000000000000
+      internalID: 2724272431398732810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_53
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 428
+        width: 10
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f3e74b71b9b93600800000000000000
+      internalID: 448593809828733939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_54
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 0
+        width: 732
+        height: 464
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 42d20742dcfe10130800000000000000
+      internalID: 3531367247193845028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_55
+      rect:
+        serializedVersion: 2
+        x: 1291
+        y: 431
+        width: 19
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c53050a14bd35f40800000000000000
+      internalID: 5716153426972259784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_56
+      rect:
+        serializedVersion: 2
+        x: 1341
+        y: 426
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58bf31b4fcb9c3400800000000000000
+      internalID: 305290189374487429
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_57
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 422
+        width: 6
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8414046e3b8506b0800000000000000
+      internalID: -5330701483840891766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_58
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 364
+        width: 37
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 092cc2aa5cfb68f90800000000000000
+      internalID: -6951658119115259248
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_59
+      rect:
+        serializedVersion: 2
+        x: 643
+        y: 307
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a8cfac1d2723f610800000000000000
+      internalID: 1653708562883397799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_60
+      rect:
+        serializedVersion: 2
+        x: 629
+        y: 86
+        width: 10
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce66fdda41a58f5e0800000000000000
+      internalID: -1875650199936866580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_61
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 81
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccea2e9ccd02a870800000000000000
+      internalID: 8692525403256581323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_62
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 80
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0502fb670dc5c90800000000000000
+      internalID: -7179634497504128838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_63
+      rect:
+        serializedVersion: 2
+        x: 740
+        y: 74
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88eb51097e6b32a90800000000000000
+      internalID: -7339821862012731768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_64
+      rect:
+        serializedVersion: 2
+        x: 732
+        y: 66
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d11560da3237c990800000000000000
+      internalID: -7365863437355380265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_65
+      rect:
+        serializedVersion: 2
+        x: 820
+        y: 17
+        width: 12
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1ef776feb7d72f30800000000000000
+      internalID: 4550843163659992607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_66
+      rect:
+        serializedVersion: 2
+        x: 831
+        y: 23
+        width: 9
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48e6b47015601aed0800000000000000
+      internalID: -2404633780954632572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: carrera_67
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 25
+        width: 7
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed5b0a13eefd60170800000000000000
+      internalID: 8144443190273947102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      carrera_0: 4025455826440734316
+      carrera_1: -1022836424788242202
+      carrera_10: -3659011208606492486
+      carrera_11: 7470605763742383225
+      carrera_12: 7003323912598481927
+      carrera_13: 8101943555816071087
+      carrera_14: -4895869481049823452
+      carrera_15: 4353019850765804085
+      carrera_16: 1705973158619414123
+      carrera_17: 7661986702376915847
+      carrera_18: 9034662387350221964
+      carrera_19: 2689537781929278429
+      carrera_2: -411410147028587859
+      carrera_20: -3963237552475560378
+      carrera_21: -90697082072926617
+      carrera_22: 2896541710595593173
+      carrera_23: -4246966256503308179
+      carrera_24: -1598665572883046871
+      carrera_25: 6965630252910186020
+      carrera_26: 7228503824462555955
+      carrera_27: -8044809468074588698
+      carrera_28: 8014842374479043274
+      carrera_29: -6099312672564485286
+      carrera_3: -6414265510051075201
+      carrera_30: -7439244358443917574
+      carrera_31: -4899899362418485300
+      carrera_32: 1410324700439224304
+      carrera_33: 6059073207999818360
+      carrera_34: -6149009993947183879
+      carrera_35: 1439526740002968859
+      carrera_36: -4201997949048515005
+      carrera_37: 9189477192796365881
+      carrera_38: 3760468593614851599
+      carrera_39: 4082338457877099928
+      carrera_4: 1805340248588784054
+      carrera_40: 7835033006433003234
+      carrera_41: 4641583402527218558
+      carrera_42: 4815866516033759190
+      carrera_43: 3064240073240191325
+      carrera_44: -3514526754832778219
+      carrera_45: 7731084560114296305
+      carrera_46: 2642199923063429531
+      carrera_47: 3278154907524304046
+      carrera_48: -8929465560490149793
+      carrera_49: 8645409255065244726
+      carrera_5: -3145811146524388730
+      carrera_50: 7710832318169519330
+      carrera_51: -6568323139145239911
+      carrera_52: 2724272431398732810
+      carrera_53: 448593809828733939
+      carrera_54: 3531367247193845028
+      carrera_55: 5716153426972259784
+      carrera_56: 305290189374487429
+      carrera_57: -5330701483840891766
+      carrera_58: -6951658119115259248
+      carrera_59: 1653708562883397799
+      carrera_6: -7579844002670466933
+      carrera_60: -1875650199936866580
+      carrera_61: 8692525403256581323
+      carrera_62: -7179634497504128838
+      carrera_63: -7339821862012731768
+      carrera_64: -7365863437355380265
+      carrera_65: 4550843163659992607
+      carrera_66: -2404633780954632572
+      carrera_67: 8144443190273947102
+      carrera_7: 5548556386647412222
+      carrera_8: 4156587247614130323
+      carrera_9: -5378898560836952315
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

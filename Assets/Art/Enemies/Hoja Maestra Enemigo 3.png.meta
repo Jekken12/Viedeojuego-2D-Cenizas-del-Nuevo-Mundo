@@ -1,0 +1,1172 @@
+fileFormatVersion: 2
+guid: 27ed2b000f245ee4dad3bcc87c18ffa0
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4608063076311216835
+    second: Hoja Maestra Enemigo 3_0
+  - first:
+      213: -8190479215769308087
+    second: Hoja Maestra Enemigo 3_1
+  - first:
+      213: 937452112790571642
+    second: Hoja Maestra Enemigo 3_2
+  - first:
+      213: 8672317058885085877
+    second: Hoja Maestra Enemigo 3_3
+  - first:
+      213: 7477375917221009341
+    second: Hoja Maestra Enemigo 3_4
+  - first:
+      213: 7156700659109450840
+    second: Hoja Maestra Enemigo 3_5
+  - first:
+      213: 8375526362215349570
+    second: Hoja Maestra Enemigo 3_6
+  - first:
+      213: 3061268348530747471
+    second: Hoja Maestra Enemigo 3_7
+  - first:
+      213: 6837274764949703443
+    second: Hoja Maestra Enemigo 3_8
+  - first:
+      213: -1619664027186113021
+    second: Hoja Maestra Enemigo 3_9
+  - first:
+      213: 6050071748638135886
+    second: Hoja Maestra Enemigo 3_10
+  - first:
+      213: -6415173706652243233
+    second: Hoja Maestra Enemigo 3_11
+  - first:
+      213: -2556359867173889654
+    second: Hoja Maestra Enemigo 3_12
+  - first:
+      213: 731363587504356304
+    second: Hoja Maestra Enemigo 3_13
+  - first:
+      213: -3719908561137236766
+    second: Hoja Maestra Enemigo 3_14
+  - first:
+      213: -7749934440896447867
+    second: Hoja Maestra Enemigo 3_15
+  - first:
+      213: 5247283957685694835
+    second: Hoja Maestra Enemigo 3_16
+  - first:
+      213: -6316290245190090487
+    second: Hoja Maestra Enemigo 3_17
+  - first:
+      213: -5386204810878197968
+    second: Hoja Maestra Enemigo 3_18
+  - first:
+      213: -539289772100600648
+    second: Hoja Maestra Enemigo 3_19
+  - first:
+      213: -8554418663752108529
+    second: Hoja Maestra Enemigo 3_20
+  - first:
+      213: 4468039296729949922
+    second: Hoja Maestra Enemigo 3_21
+  - first:
+      213: 3026577820697584177
+    second: Hoja Maestra Enemigo 3_22
+  - first:
+      213: 3750862528462196862
+    second: Hoja Maestra Enemigo 3_23
+  - first:
+      213: -5972080575930729371
+    second: Hoja Maestra Enemigo 3_24
+  - first:
+      213: 4018750053442649976
+    second: Hoja Maestra Enemigo 3_25
+  - first:
+      213: -6673017212732682794
+    second: Hoja Maestra Enemigo 3_26
+  - first:
+      213: 916843224915730673
+    second: Hoja Maestra Enemigo 3_27
+  - first:
+      213: -7551930154845592725
+    second: Hoja Maestra Enemigo 3_28
+  - first:
+      213: 787622320448519607
+    second: Hoja Maestra Enemigo 3_29
+  - first:
+      213: 707775900982773914
+    second: Hoja Maestra Enemigo 3_30
+  - first:
+      213: -51905417791238929
+    second: Hoja Maestra Enemigo 3_31
+  - first:
+      213: 5397616965303345839
+    second: Hoja Maestra Enemigo 3_32
+  - first:
+      213: -3485794479724985788
+    second: Hoja Maestra Enemigo 3_33
+  - first:
+      213: 7094873039626378259
+    second: Hoja Maestra Enemigo 3_34
+  - first:
+      213: 7021192680088802714
+    second: Hoja Maestra Enemigo 3_35
+  - first:
+      213: -6104742064275935695
+    second: Hoja Maestra Enemigo 3_36
+  - first:
+      213: -4750867822568428722
+    second: Hoja Maestra Enemigo 3_37
+  - first:
+      213: 2007055102796837109
+    second: Hoja Maestra Enemigo 3_38
+  - first:
+      213: 9001111858902245475
+    second: Hoja Maestra Enemigo 3_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 855
+        width: 196
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d40e1fb0fdc00c0800000000000000
+      internalID: -4608063076311216835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_1
+      rect:
+        serializedVersion: 2
+        x: 223
+        y: 848
+        width: 182
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944b9db5c82955e80800000000000000
+      internalID: -8190479215769308087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_2
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 832
+        width: 182
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a42d0dabf720d00800000000000000
+      internalID: 937452112790571642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_3
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 848
+        width: 182
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bae76aca624a5870800000000000000
+      internalID: 8672317058885085877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_4
+      rect:
+        serializedVersion: 2
+        x: 812
+        y: 854
+        width: 179
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db7d406a7c9f4c760800000000000000
+      internalID: 7477375917221009341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_5
+      rect:
+        serializedVersion: 2
+        x: 1009
+        y: 856
+        width: 219
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854d506e455b15360800000000000000
+      internalID: 7156700659109450840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_6
+      rect:
+        serializedVersion: 2
+        x: 1311
+        y: 973
+        width: 84
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24df3cad9d8db3470800000000000000
+      internalID: 8375526362215349570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_7
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 639
+        width: 593
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48625cf75fcb7a20800000000000000
+      internalID: 3061268348530747471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_8
+      rect:
+        serializedVersion: 2
+        x: 989
+        y: 858
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31bc19c5c21e2ee50800000000000000
+      internalID: 6837274764949703443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 660
+        width: 180
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 306d71c062cc589e0800000000000000
+      internalID: -1619664027186113021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_10
+      rect:
+        serializedVersion: 2
+        x: 189
+        y: 655
+        width: 666
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e46d333633c26f350800000000000000
+      internalID: 6050071748638135886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_11
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 637
+        width: 19
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fda219ab089b8f6a0800000000000000
+      internalID: -6415173706652243233
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_12
+      rect:
+        serializedVersion: 2
+        x: 579
+        y: 216
+        width: 854
+        height: 422
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a891907be3cf58cd0800000000000000
+      internalID: -2556359867173889654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_13
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 429
+        width: 331
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0db3ad2de43562a00800000000000000
+      internalID: 731363587504356304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_14
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 238
+        width: 196
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e40b706fda306cc0800000000000000
+      internalID: -3719908561137236766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_15
+      rect:
+        serializedVersion: 2
+        x: 165
+        y: 428
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a3dc9dfa3b27490800000000000000
+      internalID: -7749934440896447867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_16
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 237
+        width: 371
+        height: 189
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371367d45f812d840800000000000000
+      internalID: 5247283957685694835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_17
+      rect:
+        serializedVersion: 2
+        x: 342
+        y: 423
+        width: 242
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9010e25bc770858a0800000000000000
+      internalID: -6316290245190090487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_18
+      rect:
+        serializedVersion: 2
+        x: 591
+        y: 238
+        width: 184
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03fda18034b5045b0800000000000000
+      internalID: -5386204810878197968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_19
+      rect:
+        serializedVersion: 2
+        x: 1130
+        y: 380
+        width: 19
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bc31fe3fce0488f0800000000000000
+      internalID: -539289772100600648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_20
+      rect:
+        serializedVersion: 2
+        x: 1197
+        y: 360
+        width: 31
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f06751f6c89984980800000000000000
+      internalID: -8554418663752108529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_21
+      rect:
+        serializedVersion: 2
+        x: 1227
+        y: 333
+        width: 27
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e62314511aa10e30800000000000000
+      internalID: 4468039296729949922
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_22
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 354
+        width: 29
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13261cf0e70900a20800000000000000
+      internalID: 3026577820697584177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_23
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 358
+        width: 8
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e701052c89dbd0430800000000000000
+      internalID: 3750862528462196862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_24
+      rect:
+        serializedVersion: 2
+        x: 1390
+        y: 343
+        width: 9
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c73ad8b58ee1da0800000000000000
+      internalID: -5972080575930729371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_25
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 319
+        width: 7
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ff780a1e775c730800000000000000
+      internalID: 4018750053442649976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_26
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 331
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dd400f333ea463a0800000000000000
+      internalID: -6673017212732682794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_27
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 309
+        width: 39
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f063df2e0849bc00800000000000000
+      internalID: 916843224915730673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_28
+      rect:
+        serializedVersion: 2
+        x: 1392
+        y: 322
+        width: 9
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b632ed73987223790800000000000000
+      internalID: -7551930154845592725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_29
+      rect:
+        serializedVersion: 2
+        x: 1124
+        y: 303
+        width: 13
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bdb083d3523eea00800000000000000
+      internalID: 787622320448519607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_30
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 301
+        width: 7
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9809a69e6682d900800000000000000
+      internalID: 707775900982773914
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_31
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 291
+        width: 11
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fec82aa2c48974ff0800000000000000
+      internalID: -51905417791238929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_32
+      rect:
+        serializedVersion: 2
+        x: 1158
+        y: 283
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa2278a380038ea40800000000000000
+      internalID: 5397616965303345839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_33
+      rect:
+        serializedVersion: 2
+        x: 1166
+        y: 279
+        width: 11
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44289f3a368ff9fc0800000000000000
+      internalID: -3485794479724985788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_34
+      rect:
+        serializedVersion: 2
+        x: 1172
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31c1d65707d067260800000000000000
+      internalID: 7094873039626378259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_35
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 274
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a95144cea89407160800000000000000
+      internalID: 7021192680088802714
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_36
+      rect:
+        serializedVersion: 2
+        x: 1090
+        y: 248
+        width: 21
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13ea275df69974ba0800000000000000
+      internalID: -6104742064275935695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_37
+      rect:
+        serializedVersion: 2
+        x: 1181
+        y: 262
+        width: 11
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ba9f4f2e6811eb0800000000000000
+      internalID: -4750867822568428722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_38
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 17
+        width: 345
+        height: 204
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f037de6bfd7adb10800000000000000
+      internalID: 2007055102796837109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Hoja Maestra Enemigo 3_39
+      rect:
+        serializedVersion: 2
+        x: 362
+        y: 0
+        width: 1074
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 360ac65bb8f5aec70800000000000000
+      internalID: 9001111858902245475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Hoja Maestra Enemigo 3_0: -4608063076311216835
+      Hoja Maestra Enemigo 3_1: -8190479215769308087
+      Hoja Maestra Enemigo 3_10: 6050071748638135886
+      Hoja Maestra Enemigo 3_11: -6415173706652243233
+      Hoja Maestra Enemigo 3_12: -2556359867173889654
+      Hoja Maestra Enemigo 3_13: 731363587504356304
+      Hoja Maestra Enemigo 3_14: -3719908561137236766
+      Hoja Maestra Enemigo 3_15: -7749934440896447867
+      Hoja Maestra Enemigo 3_16: 5247283957685694835
+      Hoja Maestra Enemigo 3_17: -6316290245190090487
+      Hoja Maestra Enemigo 3_18: -5386204810878197968
+      Hoja Maestra Enemigo 3_19: -539289772100600648
+      Hoja Maestra Enemigo 3_2: 937452112790571642
+      Hoja Maestra Enemigo 3_20: -8554418663752108529
+      Hoja Maestra Enemigo 3_21: 4468039296729949922
+      Hoja Maestra Enemigo 3_22: 3026577820697584177
+      Hoja Maestra Enemigo 3_23: 3750862528462196862
+      Hoja Maestra Enemigo 3_24: -5972080575930729371
+      Hoja Maestra Enemigo 3_25: 4018750053442649976
+      Hoja Maestra Enemigo 3_26: -6673017212732682794
+      Hoja Maestra Enemigo 3_27: 916843224915730673
+      Hoja Maestra Enemigo 3_28: -7551930154845592725
+      Hoja Maestra Enemigo 3_29: 787622320448519607
+      Hoja Maestra Enemigo 3_3: 8672317058885085877
+      Hoja Maestra Enemigo 3_30: 707775900982773914
+      Hoja Maestra Enemigo 3_31: -51905417791238929
+      Hoja Maestra Enemigo 3_32: 5397616965303345839
+      Hoja Maestra Enemigo 3_33: -3485794479724985788
+      Hoja Maestra Enemigo 3_34: 7094873039626378259
+      Hoja Maestra Enemigo 3_35: 7021192680088802714
+      Hoja Maestra Enemigo 3_36: -6104742064275935695
+      Hoja Maestra Enemigo 3_37: -4750867822568428722
+      Hoja Maestra Enemigo 3_38: 2007055102796837109
+      Hoja Maestra Enemigo 3_39: 9001111858902245475
+      Hoja Maestra Enemigo 3_4: 7477375917221009341
+      Hoja Maestra Enemigo 3_5: 7156700659109450840
+      Hoja Maestra Enemigo 3_6: 8375526362215349570
+      Hoja Maestra Enemigo 3_7: 3061268348530747471
+      Hoja Maestra Enemigo 3_8: 6837274764949703443
+      Hoja Maestra Enemigo 3_9: -1619664027186113021
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

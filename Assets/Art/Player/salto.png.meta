@@ -1,0 +1,459 @@
+fileFormatVersion: 2
+guid: a7891e2d66353e1479be46d8f230fc0f
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6923188316897733977
+    second: salto_0
+  - first:
+      213: 5104642928478132615
+    second: salto_1
+  - first:
+      213: -5006346630430571533
+    second: salto_2
+  - first:
+      213: -7582253496403596742
+    second: salto_3
+  - first:
+      213: 6712224338716393019
+    second: salto_4
+  - first:
+      213: 2660766232509888113
+    second: salto_5
+  - first:
+      213: -8186597611155590068
+    second: salto_6
+  - first:
+      213: -9001618934849657234
+    second: salto_7
+  - first:
+      213: -7911034182714390672
+    second: salto_8
+  - first:
+      213: -139484868333494089
+    second: salto_9
+  - first:
+      213: -3361870351596797369
+    second: salto_10
+  - first:
+      213: 1959711960559849329
+    second: salto_11
+  - first:
+      213: -6394728900010981633
+    second: salto_12
+  - first:
+      213: 4540535443669838223
+    second: salto_13
+  - first:
+      213: 385296796821207388
+    second: salto_14
+  - first:
+      213: -1793415903528155118
+    second: salto_15
+  - first:
+      213: -7711011905545156072
+    second: salto_16
+  - first:
+      213: 745791539870541277
+    second: salto_17
+  - first:
+      213: -4729412054883436517
+    second: salto_18
+  - first:
+      213: -1347242648402754806
+    second: salto_19
+  - first:
+      213: 1221787112297365678
+    second: salto_20
+  - first:
+      213: -3699790169018154772
+    second: salto_21
+  - first:
+      213: 2892387990117068413
+    second: salto_22
+  - first:
+      213: 3415132342317540550
+    second: salto_23
+  - first:
+      213: 6309800729633650604
+    second: salto_24
+  - first:
+      213: 8719459356941713392
+    second: salto_25
+  - first:
+      213: -4457126666779087080
+    second: salto_26
+  - first:
+      213: -5534878382090395372
+    second: salto_27
+  - first:
+      213: 6821362263693601125
+    second: salto_28
+  - first:
+      213: 6104887538422719384
+    second: salto_29
+  - first:
+      213: -8045927102667705752
+    second: salto_30
+  - first:
+      213: 5010221150015459012
+    second: salto_31
+  - first:
+      213: 5896358225683653188
+    second: salto_32
+  - first:
+      213: -152334669780491447
+    second: salto_33
+  - first:
+      213: -4292174314579111005
+    second: salto_34
+  - first:
+      213: -3866690993605753760
+    second: salto_35
+  - first:
+      213: -2123198870226380715
+    second: salto_36
+  - first:
+      213: 652368946730491839
+    second: salto_37
+  - first:
+      213: -2229193639781103692
+    second: salto_38
+  - first:
+      213: -3601182333755035487
+    second: salto_39
+  - first:
+      213: -7859770910866451513
+    second: salto_40
+  - first:
+      213: 1844503337743713629
+    second: salto_41
+  - first:
+      213: 1340040725555195051
+    second: salto_42
+  - first:
+      213: -5718007501024249460
+    second: salto_43
+  - first:
+      213: -8297805514581389501
+    second: salto_44
+  - first:
+      213: -7737906431544122543
+    second: salto_45
+  - first:
+      213: -5854959052122584817
+    second: salto_46
+  - first:
+      213: -5890507977897819013
+    second: salto_47
+  - first:
+      213: 8502174968011602324
+    second: salto_48
+  - first:
+      213: 3081479816851466652
+    second: salto_49
+  - first:
+      213: -4111681178098165315
+    second: salto_50
+  - first:
+      213: -8969506630244410045
+    second: salto_51
+  - first:
+      213: -1537404193209241773
+    second: salto_52
+  - first:
+      213: -2328333705123144110
+    second: salto_53
+  - first:
+      213: -3392934261431537754
+    second: salto_54
+  - first:
+      213: 5618444183638856692
+    second: salto_55
+  - first:
+      213: -5038375188802690443
+    second: salto_56
+  - first:
+      213: 485270904028948336
+    second: salto_57
+  - first:
+      213: -6647773800651858335
+    second: salto_58
+  - first:
+      213: -2753540006428926632
+    second: salto_59
+  - first:
+      213: 13987721373416261
+    second: salto_60
+  - first:
+      213: -6868923410663316336
+    second: salto_61
+  - first:
+      213: -1168420343420114940
+    second: salto_62
+  - first:
+      213: -1868908584751448672
+    second: salto_63
+  - first:
+      213: 4478534003291206455
+    second: salto_64
+  - first:
+      213: -3655120263554272508
+    second: salto_65
+  - first:
+      213: 1596340093649848564
+    second: salto_66
+  - first:
+      213: -2582823095345256061
+    second: salto_67
+  - first:
+      213: -8682542138711636778
+    second: salto_68
+  - first:
+      213: -8231204796740846702
+    second: salto_69
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: salto_0
+      rect:
+        serializedVersion: 2
+        x: 89
+        y: 513
+        width: 380
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95de2d5f71b141060800000000000000
+      internalID: 6923188316897733977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_1
+      rect:
+        serializedVersion: 2
+        x: 527
+        y: 539
+        width: 380
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1bf42353a4b8d214ea29e0c227cea3c9
+      internalID: 5104642928478132615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_2
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 552
+        width: 380
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 033990065ba39984fb3f7cf1f22b1f6a
+      internalID: -5006346630430571533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_3
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 53
+        width: 380
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca237072311ebe744a18104b38a208dc
+      internalID: -7582253496403596742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: salto_4
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 85
+        width: 380
+        height: 450
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5763fea8a954ac445bd5bf040c1f2180
+      internalID: 6712224338716393019
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 6dea19001a5a3a149824313433b478e7
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":1448.0,"y":1086.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      salto_0: 6923188316897733977
+      salto_1: 5104642928478132615
+      salto_2: -5006346630430571533
+      salto_3: -7582253496403596742
+      salto_4: 6712224338716393019
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

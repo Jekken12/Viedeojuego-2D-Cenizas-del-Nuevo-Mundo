@@ -1,0 +1,477 @@
+fileFormatVersion: 2
+guid: a7aafb44bed0fd5468bb8b6b97d31267
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7246631399611530945
+    second: ULTI-JEKKEN_0
+  - first:
+      213: 6047396889101977090
+    second: ULTI-JEKKEN_1
+  - first:
+      213: 6736811053091773626
+    second: ULTI-JEKKEN_2
+  - first:
+      213: 5045830687997594091
+    second: ULTI-JEKKEN_3
+  - first:
+      213: -4485184952355781179
+    second: ULTI-JEKKEN_4
+  - first:
+      213: 1363222146857787038
+    second: ULTI-JEKKEN_5
+  - first:
+      213: -8020255936098510799
+    second: ULTI-JEKKEN_6
+  - first:
+      213: 386811044922208271
+    second: ULTI-JEKKEN_7
+  - first:
+      213: -6343723195510120310
+    second: ULTI-JEKKEN_8
+  - first:
+      213: 4725993913787316853
+    second: ULTI-JEKKEN_9
+  - first:
+      213: 8424010128432637807
+    second: ULTI-JEKKEN_10
+  - first:
+      213: 3062473923902104854
+    second: ULTI-JEKKEN_11
+  - first:
+      213: -3660498905946450347
+    second: ULTI-JEKKEN_12
+  - first:
+      213: -8829456972357414949
+    second: ULTI-JEKKEN_13
+  - first:
+      213: 1511096892998290397
+    second: ULTI-JEKKEN_14
+  - first:
+      213: 640252306212696251
+    second: ULTI-JEKKEN_15
+  - first:
+      213: 8099056428385385134
+    second: ULTI-JEKKEN_16
+  - first:
+      213: 3960562454241190199
+    second: ULTI-JEKKEN_17
+  - first:
+      213: -841918890979681303
+    second: ULTI-JEKKEN_18
+  - first:
+      213: -4607058224832089656
+    second: ULTI-JEKKEN_19
+  - first:
+      213: 9142958664889655166
+    second: ULTI-JEKKEN_20
+  - first:
+      213: -4516690679212923465
+    second: ULTI-JEKKEN_21
+  - first:
+      213: 7543160331963927030
+    second: ULTI-JEKKEN_22
+  - first:
+      213: -1728533496127925493
+    second: ULTI-JEKKEN_23
+  - first:
+      213: 1550872599682147537
+    second: ULTI-JEKKEN_24
+  - first:
+      213: -7737208219493452623
+    second: ULTI-JEKKEN_25
+  - first:
+      213: 796266366399557300
+    second: ULTI-JEKKEN_26
+  - first:
+      213: -2241122980845094471
+    second: ULTI-JEKKEN_27
+  - first:
+      213: 6499792134917675027
+    second: ULTI-JEKKEN_28
+  - first:
+      213: -5440655796329337146
+    second: ULTI-JEKKEN_29
+  - first:
+      213: 8026399887883133145
+    second: ULTI-JEKKEN_30
+  - first:
+      213: -3208749185235261963
+    second: ULTI-JEKKEN_31
+  - first:
+      213: -7676411189499229
+    second: ULTI-JEKKEN_32
+  - first:
+      213: -40336891201713960
+    second: ULTI-JEKKEN_33
+  - first:
+      213: -9051620658591627717
+    second: ULTI-JEKKEN_34
+  - first:
+      213: 3084499543623100496
+    second: ULTI-JEKKEN_35
+  - first:
+      213: -6159311117757756684
+    second: ULTI-JEKKEN_36
+  - first:
+      213: 8278672795844033911
+    second: ULTI-JEKKEN_37
+  - first:
+      213: 7657169765712007118
+    second: ULTI-JEKKEN_38
+  - first:
+      213: -5088674050995269217
+    second: ULTI-JEKKEN_39
+  - first:
+      213: -1649380351656694312
+    second: ULTI-JEKKEN_40
+  - first:
+      213: -2704281255751444013
+    second: ULTI-JEKKEN_41
+  - first:
+      213: 4336341330265438273
+    second: ULTI-JEKKEN_42
+  - first:
+      213: -7385621067118223481
+    second: ULTI-JEKKEN_43
+  - first:
+      213: 7959808393612153544
+    second: ULTI-JEKKEN_44
+  - first:
+      213: 5449455968951057984
+    second: ULTI-JEKKEN_45
+  - first:
+      213: -6820047479218826782
+    second: ULTI-JEKKEN_46
+  - first:
+      213: -9135766814150029203
+    second: ULTI-JEKKEN_47
+  - first:
+      213: 2263807206021844051
+    second: ULTI-JEKKEN_48
+  - first:
+      213: -1905454137470595093
+    second: ULTI-JEKKEN_49
+  - first:
+      213: 4601004499333307040
+    second: ULTI-JEKKEN_50
+  - first:
+      213: -1993255468947428936
+    second: ULTI-JEKKEN_51
+  - first:
+      213: -5656660884849167279
+    second: ULTI-JEKKEN_52
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ULTI-JEKKEN_0
+      rect:
+        serializedVersion: 2
+        x: 106
+        y: 380
+        width: 313
+        height: 278
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3186f7e22bce6b90800000000000000
+      internalID: -7246631399611530945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI-JEKKEN_1
+      rect:
+        serializedVersion: 2
+        x: 669
+        y: 376
+        width: 297
+        height: 283
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 383249e612d1b5c429dcf883468a3d23
+      internalID: 6047396889101977090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI-JEKKEN_2
+      rect:
+        serializedVersion: 2
+        x: 1188
+        y: 364
+        width: 389
+        height: 298
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07c035f420d1fdc4fbbe1e3a15cdd8d0
+      internalID: 6736811053091773626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI-JEKKEN_3
+      rect:
+        serializedVersion: 2
+        x: 1664
+        y: 363
+        width: 477
+        height: 292
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c019dd0133ef914ca4698f0c49f8a67
+      internalID: 5045830687997594091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI-JEKKEN_4
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 21
+        width: 509
+        height: 268
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a2bd9519a6400ab499d43f1270e940a1
+      internalID: -4485184952355781179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI-JEKKEN_5
+      rect:
+        serializedVersion: 2
+        x: 552
+        y: 21
+        width: 547
+        height: 342
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 423fd760fa8d39d408377f13f6f9a6ea
+      internalID: 1363222146857787038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI-JEKKEN_6
+      rect:
+        serializedVersion: 2
+        x: 1102
+        y: 23
+        width: 592
+        height: 251
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4f38e4f2b8d94df488f2ba71af1506e4
+      internalID: -8020255936098510799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI-JEKKEN_7
+      rect:
+        serializedVersion: 2
+        x: 1798
+        y: 35
+        width: 270
+        height: 238
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bfabf5bd3ec5eda4d8dbfb2892904cfd
+      internalID: 386811044922208271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 5eb2cddc9cab295409d430a2107daa09
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":2172.0,"y":724.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ULTI-JEKKEN_0: -7246631399611530945
+      ULTI-JEKKEN_1: 6047396889101977090
+      ULTI-JEKKEN_2: 6736811053091773626
+      ULTI-JEKKEN_3: 5045830687997594091
+      ULTI-JEKKEN_4: -4485184952355781179
+      ULTI-JEKKEN_5: 1363222146857787038
+      ULTI-JEKKEN_6: -8020255936098510799
+      ULTI-JEKKEN_7: 386811044922208271
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

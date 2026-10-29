@@ -1,0 +1,504 @@
+fileFormatVersion: 2
+guid: 8cb7ced236a1d1440bf068e502484450
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6197911791691834669
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_0
+  - first:
+      213: 3833021674825580336
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_1
+  - first:
+      213: 193877484328021451
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_2
+  - first:
+      213: 3573600604226590043
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_3
+  - first:
+      213: -4673052463092362805
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_4
+  - first:
+      213: 7227229265862775369
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_5
+  - first:
+      213: 5115951203453438424
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_6
+  - first:
+      213: 3296126181348471304
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_7
+  - first:
+      213: -7715617740655146043
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_8
+  - first:
+      213: 6484518492647073590
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_9
+  - first:
+      213: 1263734157220804482
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_10
+  - first:
+      213: 1393708631420344081
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_11
+  - first:
+      213: -8123429633999765746
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_12
+  - first:
+      213: -254828587900755135
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_13
+  - first:
+      213: -3157389532141431752
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_14
+  - first:
+      213: -2267548526914212408
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_15
+  - first:
+      213: 2723981540356068133
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_16
+  - first:
+      213: 8661272636991301415
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_17
+  - first:
+      213: -6377644894086803228
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_18
+  - first:
+      213: 7136320688478991317
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_19
+  - first:
+      213: -3964432276172703337
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_20
+  - first:
+      213: -6412327605309061976
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_21
+  - first:
+      213: -4970827445888666261
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_22
+  - first:
+      213: -1133639132467363275
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_23
+  - first:
+      213: -84489736260070830
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_24
+  - first:
+      213: -5019944400872471013
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_25
+  - first:
+      213: -5797754075578913998
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_26
+  - first:
+      213: -5988318780753227051
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_27
+  - first:
+      213: 6337826958356427240
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_28
+  - first:
+      213: -1116713605607348016
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_29
+  - first:
+      213: 8002814625693797253
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_30
+  - first:
+      213: 4197757376658104311
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_31
+  - first:
+      213: 5440116749581132347
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_32
+  - first:
+      213: -1103698856132131686
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_33
+  - first:
+      213: 1552992834731296248
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_34
+  - first:
+      213: 6835571132168245678
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_35
+  - first:
+      213: -795562114017821860
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_36
+  - first:
+      213: -6634474366299631236
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_37
+  - first:
+      213: 5419379338568049018
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_38
+  - first:
+      213: 2861064997526223947
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_39
+  - first:
+      213: -4587873384618558980
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_40
+  - first:
+      213: -127832328421526721
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_41
+  - first:
+      213: 2404569949523379464
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_42
+  - first:
+      213: -1041252505608430068
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_43
+  - first:
+      213: -8665386069234224377
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_44
+  - first:
+      213: -1629430856353527434
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_45
+  - first:
+      213: 1046409067457209585
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_46
+  - first:
+      213: 8647830229914500387
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_47
+  - first:
+      213: 7928941279356807916
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_48
+  - first:
+      213: 6030204577436783858
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_49
+  - first:
+      213: -3083513372920294781
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_50
+  - first:
+      213: 1192157257514466615
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_51
+  - first:
+      213: -3931510983034862594
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_52
+  - first:
+      213: -2514961597697925494
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_53
+  - first:
+      213: -8453530680392081096
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_54
+  - first:
+      213: 1845697412743201603
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_55
+  - first:
+      213: 2611995128072792737
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_56
+  - first:
+      213: -4123580193232913975
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_57
+  - first:
+      213: -2931855486562920700
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_58
+  - first:
+      213: -1605143292127663509
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_59
+  - first:
+      213: -5416189463738616888
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_60
+  - first:
+      213: -4292257843246881450
+    second: ULTI_JEKKEN_CORREGIDA_8_FRAMES_61
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 60
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationMethod: 0
+  spriteTessellationDetail: -1
+  spriteGeometrySubdivision: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: ULTI_JEKKEN_CORREGIDA_8_FRAMES_0
+      rect:
+        serializedVersion: 2
+        x: 67
+        y: 794
+        width: 720
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dad00b30189cf9a0800000000000000
+      internalID: -6197911791691834669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI_JEKKEN_CORREGIDA_8_FRAMES_1
+      rect:
+        serializedVersion: 2
+        x: 855
+        y: 796
+        width: 760
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bb07357c59a43a64b85cf76cc6fdcdb1
+      internalID: 3833021674825580336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI_JEKKEN_CORREGIDA_8_FRAMES_2
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 780
+        width: 720
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 79def718a835700418d89ec9f3fc43f0
+      internalID: 193877484328021451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI_JEKKEN_CORREGIDA_8_FRAMES_3
+      rect:
+        serializedVersion: 2
+        x: 2516
+        y: 769
+        width: 720
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f2e7dbb20fd28034c9c68822c6dccd60
+      internalID: 3573600604226590043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI_JEKKEN_CORREGIDA_8_FRAMES_4
+      rect:
+        serializedVersion: 2
+        x: 848
+        y: 123
+        width: 720
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 62b298746c1aa4341a62b5b94c8b2672
+      internalID: -4673052463092362805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI_JEKKEN_CORREGIDA_8_FRAMES_5
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 115
+        width: 720
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45cc0008e17e1c946a02e5ed3285acfc
+      internalID: 7227229265862775369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI_JEKKEN_CORREGIDA_8_FRAMES_6
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 117
+        width: 760
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7b083a1b27ccda4a939dd3f1d1016f5
+      internalID: 5115951203453438424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: ULTI_JEKKEN_CORREGIDA_8_FRAMES_7
+      rect:
+        serializedVersion: 2
+        x: 2507
+        y: 136
+        width: 720
+        height: 460
+      alignment: 7
+      pivot: {x: 0.5, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 180a06cad9337244cb3810959f6263f0
+      internalID: 3296126181348471304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 75bd16d8ec1997b40af704cccb9137ed
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries:
+      - key: SpriteEditor.SliceSettings
+        value: '{"sliceOnImport":false,"gridCellCount":{"x":1.0,"y":1.0},"gridSpriteSize":{"x":3280.0,"y":1280.0},"gridSpriteOffset":{"x":0.0,"y":0.0},"gridSpritePadding":{"x":0.0,"y":0.0},"pivot":{"x":0.5,"y":0.5},"pivotPixels":{"x":0.0,"y":0.0},"autoSlicingMethod":0,"spriteAlignment":0,"pivotUnitMode":0,"slicingType":2,"keepEmptyRects":false,"isAlternate":false}'
+    nameFileIdTable:
+      ULTI_JEKKEN_CORREGIDA_8_FRAMES_0: -6197911791691834669
+      ULTI_JEKKEN_CORREGIDA_8_FRAMES_1: 3833021674825580336
+      ULTI_JEKKEN_CORREGIDA_8_FRAMES_2: 193877484328021451
+      ULTI_JEKKEN_CORREGIDA_8_FRAMES_3: 3573600604226590043
+      ULTI_JEKKEN_CORREGIDA_8_FRAMES_4: -4673052463092362805
+      ULTI_JEKKEN_CORREGIDA_8_FRAMES_5: 7227229265862775369
+      ULTI_JEKKEN_CORREGIDA_8_FRAMES_6: 5115951203453438424
+      ULTI_JEKKEN_CORREGIDA_8_FRAMES_7: 3296126181348471304
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
